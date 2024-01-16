@@ -91,10 +91,10 @@ In May 2023, the Indian car market witnessed the sale of approximately 3.34 Lakh
 2. Run the script:
 
    ```bash
-   python web_scraping_(solved).py
+   python indian_cars_(data_analysis).py
    ```
 
-   Replace `web_scraping_(solved).py` with the actual name of your script.
+   Replace `indian_cars_(data_analysis).py` with the actual name of your script.
 
    OR
 
@@ -108,5 +108,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Special thanks to my mentor [Rushikesh](https://github.com/rishikonapure) for providing guidance and valuable insights throughout the development of this project. Additionally, I express my gratitude to [PrepInsta](https://prepinstaprime.com/) for offering this valuable opportunity to enhance my skills in web scraping.
+
 
 This repository provides a comprehensive exploration of the dataset, aiming to uncover insights into individual variables and relationships between variables. Happy Learning!
