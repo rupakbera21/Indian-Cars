@@ -6,7 +6,7 @@ This repository contains a dataset on Indian car sales with extensive informatio
 
 In May 2023, the Indian car market witnessed the sale of approximately 3.34 Lakh passenger cars, marking a notable 13% increase compared to the previous year. The top 25 selling cars contributed to over 75% of the total cars sold in April 2023.
 
-## Libraries Used for Visualization
+## Libraries majorly Used for Visualization
 
 1. Seaborn
 2. Plotly
